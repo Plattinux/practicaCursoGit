@@ -1,2 +1,5 @@
 "La vida es un buen libro"
 "GitLab"
+
+---------------------------
+Prueba de conflictos en git
