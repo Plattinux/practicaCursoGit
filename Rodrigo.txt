@@ -1,2 +1,2 @@
-"La vida es un buen libro"
+PRUBE DE CONFLICTO
 "GitLab"
