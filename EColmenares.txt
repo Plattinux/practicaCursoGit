@@ -3,3 +3,5 @@ Gracias por la bienvenida.
 No se porque desde que comenzó la practica, mi lapto no se ha conectado con la red inalambrica del curso.
 
 Saludos.
+
+Trabajando el ejemplo del Commit, me generó un problema debido a que había generado dos archivos casi con el mismo nombre y cuando hacia el git push no podia porque GITHUB me decia que tenia que hacer un commit a todos los archivos antes de hacer un git push.
