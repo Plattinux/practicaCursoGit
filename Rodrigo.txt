@@ -1,2 +1,5 @@
-"La vida es un buen libro"
+PRUBE DE CONFLICTO
 "GitLab"
+
+---------------------------
+Prueba de conflictos en git
